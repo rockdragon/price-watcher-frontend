@@ -1,7 +1,7 @@
 # Price Watcher（プライス・ウォッチャー）のフロントエンド
 
 ## 事前準備
-1. .env.developmentを作る
+1. <code>.env.development</code>を作る
 ```editorconfig
 NEXT_PUBLIC_SERVER_HOST=http://localhost:8080
 ```
